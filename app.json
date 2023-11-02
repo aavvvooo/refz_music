@@ -1,7 +1,7 @@
 {
-    "name": "⦓ 𝐒𝐎𝐔𝐑𝐂𝐄 𝐑𝐄𝐅𝐙 𝐌𝐔𝐒𝐈𝐂🜪 ⦔",
+    "name": "⦓  سورس عبود 🜪 ⦔",
     "description": "تنصيب بوتات الاغاني  للتشغيل في المكالمات الصوتية",
-    "logo": "https://graph.org/file/6e4359dc87a11152d5951.jpg",
+    "logo": "https://graph.org/file/6c192f12d2a4fdef1f55f.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -43,7 +43,7 @@
       },
       "SUPPORT_CHAT": {
         "description": "ضـع رابـط جـروب الـدعـم",
-        "value": "https://t.me/rev_fxx",
+        "value": "https://t.me/rr_e_711",
         "required": false
       }
     },
